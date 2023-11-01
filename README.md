@@ -11,15 +11,6 @@ bash 안에서 다음 세 개의 input file(u.item, u.data, u.user)을 이용하
 
 [4.Project 사용방법](#4.-project-사용방법)  
 
-
-## 1. Input file explanation
-
-## 2. Requirements explanation
-
-## 3. Project 개발환경 및 실행방법
-
-## 4. Project 사용방법
-
 ## Project에 참여한 사람 및 참고자료
 
 ## License
