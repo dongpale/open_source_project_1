@@ -27,5 +27,5 @@ Inha university computer science engineering KimDongHyun
 2023 인하대학교 컴퓨터공학과 오픈소스SW개론 강의자료  
 
 ## License
-GPL-3.0 License
+- GPL-3.0 License
 
