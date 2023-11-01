@@ -21,7 +21,7 @@ bash 안에서 다음 세 개의 input file(u.item, u.data, u.user)을 이용하
 
 ## Project member 및 참고자료
 - Project member  
-Inha university computer science engineering KimDongHyun  
+Inha University, Department of Computer Engineering, Class of 2019 KimDongHyun  
 
 - 참고자료  
 2023 인하대학교 컴퓨터공학과 오픈소스SW개론 강의자료  
