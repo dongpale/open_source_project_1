@@ -9,7 +9,7 @@ bash 안에서 다음 세 개의 input file(u.item, u.data, u.user)을 이용하
 
 [3. Project 개발환경 및 실행방법](#3.-project-개발환경-및-실행방법)  
 
-[4. project 코드 설명](#4.-project-사용방법)  
+[4. Project 코드 설명](#4.-project-코드-설명)  
 
 ## 1. Input file explanation  
 - u.item  
