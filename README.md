@@ -11,9 +11,33 @@ bash 안에서 다음 세 개의 input file(u.item, u.data, u.user)을 이용하
 
 [4.Project 사용방법](#4.-project-사용방법)  
 
-## 1. Input file explanation
+## 1. Input file explanation  
+- u.item  
+영화에 대한 정보를 담은 파일로서, 파일의 데이터는 ‘|’로 구분되며, 각 열들의 의미는 'movie_id', 'movie_title', 'release date', 'video release date', 'IMDB URL', 'Genre'이다. 또한, 마지막 열인 'Genre'는 'unknown', 'Action', 'Adventure', 'Animation', 'Children’s', 'Comedy', 'Crime', 'Documentary', 'Drama', 'Fantasy', 'Film-Noir', 'Horror', 'Musical', 'Mystery', 'Romance', 'Sci-Fi', 'Thriller', 'War', 'Western'으로 세분화되어 나뉘며 장르들 중에 1로 표시되어 있는 부분이 해당 영화의 장르가 된다.
 
-## 2. Requirements explanation
+```
+// 예시
+1|Toystory(1995)|01-Jan-1995||http://us.imdb.com/M/title-exact?Toy%20Story%20(1995)|0|0|0|1|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0
+// Toy story의 genre는 Adventure, Animation, Children’s이다.
+```
+- u.data  
+어느 user가 어떤 영화에 대해 평점을 몇 점 매겼는지에 대한 파일로서, 'user_id', 'movie_id', 'rating', 'timestamp'의 열을 갖는다.
+
+```
+// 예시
+196    242    3    881250949
+// 192의 user_id를 갖는 user는 242의 movie_id를 가진 영화의 평점을 3점으로 매겼다.
+```
+- u.user  
+영화를 평가한 user들의 정보를 담은 파일로서, 'user_id', 'age', 'gender', 'occupation', 'zip code'의 5개의 열을 갖는다.
+
+```
+// 예시
+1|24|M|technician|85711 // M : 남성
+2|53|F|other|94043 // F : 여성
+```
+## 2. Requirements explanation  
+
 
 ## 3. Project 개발환경 및 실행방법
 
