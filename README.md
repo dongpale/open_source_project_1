@@ -71,7 +71,7 @@ $ ./proj1_12191556_kimdonghyun.sh u.item u.user u.data
 ```
 
 
-## 4. Project 사용방법
+## 4. Project 구현 설명
 
 ## Project member 및 참고자료
 - Project member  
