@@ -55,7 +55,21 @@ bash 안에서 다음 세 개의 input file(u.item, u.data, u.user)을 이용하
   
   9) Exit 기능으로서, ‘Bye’라고 출력 후 프로그램을 종료하는 기능이다.
 
-## 3. Project 개발환경 및 실행방법
+## 3. Project 개발환경 및 실행방법  
+- 개발환경
+1. Git bash 2.42.0.2
+2. Vim editor
+- 실행방법
+```
+$ mkdir oss_project_1 // 디렉토리 생성
+$ cd oss_project_1 // 'oss_project_1' 디렉토리로 이동
+$ ls // 디렉토리 내용의 리스트를 출력
+```
+사진
+```
+$ ./proj1_12191556_kimdonghyun.sh u.item u.user u.data
+```
+
 
 ## 4. Project 사용방법
 
