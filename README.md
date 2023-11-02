@@ -65,13 +65,35 @@ $ mkdir oss_project_1 // 디렉토리 생성
 $ cd oss_project_1 // 'oss_project_1' 디렉토리로 이동
 $ ls // 디렉토리 내용의 리스트를 출력
 ```
-사진
+<img width="719" alt="ls 결과 출력 캡쳐 화면" src="https://github.com/dongpale/open_source_project_1/assets/104160379/cb5de91a-c6b5-4744-b40e-402c68204d11">  
+
 ```
-$ ./proj1_12191556_kimdonghyun.sh u.item u.user u.data
+$ ./prj1_12191556_kimdonghyun.sh u.item u.user u.data
 ```
+* 주의할 점  
+shell script 파일과 세 개의 input file(u.item, u.data, u.user)은 동일한 디렉토리에 있어야 한다. 그래서 해당 프로젝트를 하기 위해 'oss_project_1' 이라는 디렉토리를 만든 후, 이 디렉토리 안에서 프로젝트를 진행하였다.
 
 
-## 4. Project 구현 설명
+## 4. Project 코드 설명  
+0) 전체적인 틀
+
+1) 기능1.
+
+2) 기능2.
+
+3) 기능3.
+
+4) 기능4.
+
+5) 기능5.
+
+6) 기능6.
+
+7) 기능7.
+
+8) 기능8.
+
+9) 기능9.
 
 ## Project member 및 참고자료
 - Project member  
