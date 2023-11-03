@@ -108,7 +108,9 @@ shell script 파일과 세 개의 input file(u.item, u.data, u.user)은 동일�
 
 16) 기능8.
 
-17) 기능9.
+
+
+18) 기능9.
 <img width="238" alt="9번 기능 캡쳐" src="https://github.com/dongpale/open_source_project_1/assets/104160379/cb3f5547-591b-4bc3-a1cd-4efe418a3489">  
 
 
