@@ -103,10 +103,12 @@ shell script 파일과 세 개의 input file(u.item, u.data, u.user)은 동일�
 
 
 14) 기능7.
+<img width="859" alt="7번 기능 캡처" src="https://github.com/dongpale/open_source_project_1/assets/104160379/b5761951-22c9-4dea-a580-8715f528206c">  
+ 
 
-15) 기능8.
+16) 기능8.
 
-16) 기능9.
+17) 기능9.
 <img width="238" alt="9번 기능 캡쳐" src="https://github.com/dongpale/open_source_project_1/assets/104160379/cb3f5547-591b-4bc3-a1cd-4efe418a3489">  
 
 
