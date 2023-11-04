@@ -64,8 +64,8 @@ bash 안에서 다음 세 개의 input file(u.item, u.data, u.user)을 이용하
 $ mkdir oss_project_1 // 디렉토리 생성
 $ cd oss_project_1 // 'oss_project_1' 디렉토리로 이동
 $ ls // 디렉토리 내용의 리스트를 출력
-```
-<img width="719" alt="ls 결과 출력 캡쳐 화면" src="https://github.com/dongpale/open_source_project_1/assets/104160379/cb5de91a-c6b5-4744-b40e-402c68204d11">  
+```  
+<img width="706" alt="ls 캡처" src="https://github.com/dongpale/open_source_project_1/assets/104160379/9672dcd0-2333-4620-a0bb-9357faf0f08f">  
 
 ```
 $ ./prj1_12191556_kimdonghyun.sh u.item u.user u.data
