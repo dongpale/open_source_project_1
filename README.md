@@ -78,39 +78,39 @@ shell script 파일과 세 개의 input file(u.item, u.data, u.user)은 동일�
 <img width="956" alt="전체적인 틀 캡쳐" src="https://github.com/dongpale/open_source_project_1/assets/104160379/6887a9b0-0ec2-4ec4-bfd9-903f0fe9ff91">
 
 
-2) 기능1.
+1) 기능1.
 <img width="651" alt="1번 기능 캡쳐" src="https://github.com/dongpale/open_source_project_1/assets/104160379/28ec3a30-1fc1-4c49-a53d-8c05759a2f34">
 
 
-4) 기능2.
+2) 기능2.
 <img width="707" alt="2번 기능 캡쳐" src="https://github.com/dongpale/open_source_project_1/assets/104160379/7c2e0520-b0d0-449e-99c2-100b7ee5d9c4">  
 
 
-6) 기능3.
+3) 기능3.
 <img width="853" alt="3번 기능 캡쳐" src="https://github.com/dongpale/open_source_project_1/assets/104160379/94377cc1-22f4-479b-99a7-1c38d33f8e5d">  
 
 
-8) 기능4.
+4) 기능4.
 <img width="826" alt="4번 기능 캡쳐" src="https://github.com/dongpale/open_source_project_1/assets/104160379/e94c2b06-b61e-4e8d-ac36-9f3209694ede">  
 
 
-10) 기능5.
+5) 기능5.
 <img width="959" alt="5번 기능 캡쳐" src="https://github.com/dongpale/open_source_project_1/assets/104160379/9bb21c7f-be3e-4e84-950f-8aa8f2246fb3">  
 
 
-12) 기능6.
+6) 기능6.
 <img width="968" alt="6번 기능 캡쳐" src="https://github.com/dongpale/open_source_project_1/assets/104160379/fb8da109-988b-4be4-8615-20c249e310f0">  
 
 
-14) 기능7.
+7) 기능7.
 <img width="859" alt="7번 기능 캡처" src="https://github.com/dongpale/open_source_project_1/assets/104160379/b5761951-22c9-4dea-a580-8715f528206c">  
  
 
-16) 기능8.
+8) 기능8.
 
 
 
-18) 기능9.
+9) 기능9.
 <img width="238" alt="9번 기능 캡쳐" src="https://github.com/dongpale/open_source_project_1/assets/104160379/cb3f5547-591b-4bc3-a1cd-4efe418a3489">  
 
 
